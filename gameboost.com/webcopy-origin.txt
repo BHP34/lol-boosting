@@ -1,0 +1,236 @@
+Uri: https://gameboost.com/cdn-cgi/apps/head/wKsfCXFPc-IkkCMOG2YJE_Hz7jw.js
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\cdn-cgi\apps\head\wKsfCXFPc-IkkCMOG2YJE_Hz7jw.js
+Content Type: application/javascript
+
+Uri: https://gameboost.com/lol/solo-boost
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\lol\solo-boost.html
+Content Type: text/html
+
+Uri: https://gameboost.com/public/assets/global/games/lol.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/lol/ranks/full/3.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\ranks\full\3.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/global/games/lol/ranks/full/4.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\ranks\full\4.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/global/games/lol/ranks/mini/1.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\ranks\mini\1.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/global/games/lol/ranks/mini/2.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\ranks\mini\2.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/global/games/lol/ranks/mini/3.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\ranks\mini\3.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/global/games/lol/ranks/mini/4.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\ranks\mini\4.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/global/games/lol/ranks/mini/5.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\ranks\mini\5.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/global/games/lol/ranks/mini/6.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\ranks\mini\6.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/global/games/lol/ranks/mini/7.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\ranks\mini\7.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/global/games/lol/roles/AdCarry.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\roles\AdCarry.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/lol/roles/Jungle.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\roles\Jungle.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/lol/roles/MidLane.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\roles\MidLane.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/lol/roles/Support.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\roles\Support.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/lol/roles/TopLane.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\lol\roles\TopLane.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/ow.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\ow.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/tft.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\tft.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/val.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\val.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/wow.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\wow.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/global/games/wr.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\global\games\wr.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/main/css/boost-forms/lol.css?v=3
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\css\boost-forms\lol.css
+Content Type: text/css
+
+Uri: https://gameboost.com/public/assets/main/css/plugins.css?v5
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\css\plugins.css
+Content Type: text/css
+
+Uri: https://gameboost.com/public/assets/main/css/style.css?67
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\css\style.css
+Content Type: text/css
+
+Uri: https://gameboost.com/public/assets/main/favicon/apple-touch-icon.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/favicon/favicon-16x16.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/favicon/favicon-32x32.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/favicon/favicon.ico
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://gameboost.com/public/assets/main/favicon/safari-pinned-tab.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/main/favicon/site.webmanifest?v
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\favicon\site.webmanifest
+Content Type: text/plain
+
+Uri: https://gameboost.com/public/assets/main/img/banners/blog-default.jpg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\banners\blog-default.jpg
+Content Type: image/jpeg
+
+Uri: https://gameboost.com/public/assets/main/img/brands/esif1.png?1
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\brands\esif1.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/img/brands/fgcp.png?1
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\brands\fgcp.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/img/brands/frc.png?1
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\brands\frc.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/img/illustrations/2.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\illustrations\2.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/img/illustrations/4.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\illustrations\4.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/img/illustrations/5.png?1
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\illustrations\5.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/img/illustrations/vector/ashe.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\illustrations\vector\ashe.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/img/illustrations/vector/mf.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\illustrations\vector\mf.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/img/logo.png
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\logo.png
+Content Type: image/png
+
+Uri: https://gameboost.com/public/assets/main/img/logo/icon-text-dark.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\logo\icon-text-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/main/img/logo/icon-text-long.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\logo\icon-text-long.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/main/img/logo/icon-text.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\logo\icon-text.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/main/img/promo/lol.webp
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\promo\lol.webp
+Content Type: image/webp
+
+Uri: https://gameboost.com/public/assets/main/img/svg/be.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\svg\be.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/main/img/svg/lol.svg
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\img\svg\lol.svg
+Content Type: image/svg+xml
+
+Uri: https://gameboost.com/public/assets/main/js/main.js
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://gameboost.com/public/assets/main/js/pages/boost-forms/forms.js?v=1.2
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\js\pages\boost-forms\forms.js
+Content Type: application/x-javascript
+
+Uri: https://gameboost.com/public/assets/main/js/pages/boost-forms/lol.js?20503
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\js\pages\boost-forms\lol.js
+Content Type: application/x-javascript
+
+Uri: https://gameboost.com/public/assets/main/js/plugins.js?v5
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\js\plugins.js
+Content Type: application/x-javascript
+
+Uri: https://gameboost.com/public/assets/main/js/plugins/bootstrap-touchspin.min.js?v6turbo
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\js\plugins\bootstrap-touchspin.min.js
+Content Type: application/x-javascript
+
+Uri: https://gameboost.com/public/assets/main/js/plugins/bootstrap.bundle.min.js?l9
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\js\plugins\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://gameboost.com/public/assets/main/js/plugins/jquery.min.js
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\js\plugins\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://gameboost.com/public/assets/main/js/theme.js?v5
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\public\assets\main\js\theme.js
+Content Type: application/x-javascript
+
+Uri: https://instant.page/5.1.1
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\5.1.1
+Content Type: text/javascript
+
+Uri: https://widget-v4.tidiochat.com/1_164_0/static/js/render.ea1b0baa6c7b217ec7b2.js
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\1_164_0\static\js\render.ea1b0baa6c7b217ec7b2.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=118290342128413&ev=PageView&noscript=1
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-140338969-1
+File Name: C:\Users\bengu\OneDrive\Bureau\1\New folder\gameboost.com\gtag\js
+Content Type: application/javascript
+

@@ -1,0 +1,23 @@
+function fetch_api(action,method="GET",post_data={},token="global-l9"){post_data['action']=action;let request_data=new FormData();for(var key in post_data){request_data.append(key,post_data[key]);}
+return $.ajax({url:ajax_url,data:request_data,dataType:'text',async:true,method:"POST",cache:true,processData:false,contentType:false,error:function(){},success:function(response){}})}
+function util_price(price){return(price/100).toFixed(2);}
+function util_format_rank(tier,div){if(tier=="unranked"||tier=="master"||tier=="grandmaster"||tier=="challenger"){return tier;}else{return tier+" "+div.toUpperCase();}}
+function util_format_tier(tier,game){tier_id_array={'lol':{0:'Unranked',1:'Iron',2:'Bronze',3:'Silver',4:'Gold',5:'Platinum',6:'Diamond',7:'Master',8:'Grandmaster',9:'Challenger'},'tft':{0:'Unranked',1:'Iron',2:'Bronze',3:'Silver',4:'Gold',5:'Platinum',6:'Diamond',7:'Master',8:'Grandmaster',9:'Challenger'},'val':{0:'Unranked',1:'Iron',2:'Bronze',3:'Silver',4:'Gold',5:'Platinum',6:'Diamond',7:'Ascendant',8:'Immortal',9:'Radiant'}};if(game!='wow'){return tier_id_array[game][tier];}else{return '';}}
+function util_format_division(division,game){division_id_array={'lol':{4:'I',3:'II',2:'III',1:'IV'},'tft':{4:'I',3:'II',2:'III',1:'IV'},'val':{1:1,2:2,3:3}};if(game!='wow'){if(typeof division_id_array[game][division]!=='undefined'){return division_id_array[game][division];}else{return division;}}else{return '';}}
+var Settlement=[];Settlement.in_array=function(needle,haystack,strict=false){var key='';if(strict){for(key in haystack){if(haystack[key]===needle){return true;}}}
+else{for(key in haystack){if(haystack[key]==needle){return true;}}}
+return false;}
+function util_format_rank_advanced(rank,game='lol'){let rank_array=[];if(rank!=null){rank_array=rank.split('|');}else{return 'Unranked';}
+tier=rank_array[0];division=rank_array[1];tiers={0:'Unranked',1:'Master',2:'Grandmaster',3:'Challenger',4:'Radiant'};tier=util_format_tier(tier,game);if(Settlement.in_array(tier,tiers)){return tier;}else{return tier+" "+util_format_division(division,game);}}
+function util_format_languages(languages){let languages_array=[];if(languages!=null){languages_array=languages.split('|');}else{return '<img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" class="me-1" width="20px">';}
+let lang_html='';for(let i=0;i<languages_array.length;i++){lang_html+='<img src="https://hatscripts.github.io/circle-flags/flags/'+languages_array[i]+'.svg" class="me-1" width="20px">';}
+return lang_html;}
+function util_decode_html(str){var txt=document.createElement("textarea");txt.innerHTML=str;return txt.value;}
+function util_base64_decode(str){return atob(str);}
+function convert_tier(tier){var tiers={0:'unranked',1:'iron',2:'bronze',3:'silver',4:'gold',5:'platinum',6:'diamond',7:'master',8:'grandmaster',9:'challenger'};if(typeof tier==='string'){for(var key in tiers){if(tiers[key]===tier){return key;}}}else if(typeof tier==='number'){return tiers[tier];}}
+function convert_division(division){var divisions={4:'I',3:'II',2:'III',1:'IV'};if(typeof division==='string'){for(var key in divisions){if(divisions[key]===division){return key;}}}else if(typeof division==='number'){return divisions[division];}}
+function util_num_abrv(num,digits){const lookup=[{value:1,symbol:""},{value:1e3,symbol:"k"},{value:1e6,symbol:"M"},{value:1e9,symbol:"G"},{value:1e12,symbol:"T"},{value:1e15,symbol:"P"},{value:1e18,symbol:"E"}];const rx=/\.0+$|(\.[0-9]*[1-9])0+$/;var item=lookup.slice().reverse().find(function(item){return num>=item.value;});return item?(num/item.value).toFixed(digits).replace(rx,"$1")+item.symbol:"0";}
+$('.ajax-form').submit(function(){$ajaxForm=$(this);let action_button=$ajaxForm.find('button[type="submit"]');var formData=new FormData($ajaxForm[0]);$.ajax({type:'post',url:$(this).attr('action'),data:formData,dataType:'text',cache:false,processData:false,contentType:false,beforeSend:function(){if(action_button){action_button.attr('data-kt-indicator','on');action_button.prop('disabled',true);}},error:function(){if(action_button){action_button.removeAttr('data-kt-indicator');action_button.prop('disabled',false);}
+Swal.fire({icon:'error',title:'Error!',text:'Something went wrong.',showConfirmButton:false,timer:1500});},success:function(response){if(action_button){action_button.removeAttr('data-kt-indicator');action_button.prop('disabled',false);}
+response=JSON.parse(response);if(response.noNotif){if(response.redirectUrl){window.location.href=response.redirectUrl;}}
+if(typeof(ajaxSuccessFunction)!='undefined'){ajaxSuccessFunction(response);}}});return false;});
